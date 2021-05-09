@@ -1,0 +1,31 @@
+html{
+    background: rgb(65,54,232);
+    background: linear-gradient(90deg, rgba(65,54,232,1) 0%, rgba(58,167,132,1) 53%, rgba(0,117,255,1) 100%);
+    background-repeat: no-repeat;
+}
+.wrap-login1002 {
+  width: 90%;
+  background: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 30px 130px 33px 95px}
+h1{
+    font-family: Poppins-Bold;
+  font-size: 24px;
+  color: #333333;
+  line-height: 1.2;
+
+}
+/* h1{
+    font-family: Poppins-Bold;
+  color: #333333;
+  line-height: 1.2;
+  text-align: center;
+
+} */
