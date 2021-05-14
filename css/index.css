@@ -16,6 +16,7 @@ html{
     }
   }
 .wrap-login1002 {
+  min-height: 600px;
   width: 90%;
   background: #fff;
   border-radius: 10px;
