@@ -3,7 +3,7 @@ function validater() {
 
     var username = document.getElementById("username").value;
     var password = document.getElementById("password").value;
-    if ((username == "sakshhamtg@gmail.com" && password == "password@2020") ||( username=="heermithu@gmail.com" && password=="heeranaya1")){
+    if ((username == "sakshhamtg@gmail.com" && password == "passwordabc") ||( username=="heermithu@gmail.com" && password=="passwordxyz")){
         alert('You have logined as '+ username) // Redirecting to other page.
         return true;
     } else {
